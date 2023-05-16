@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <model>BMW</model>
+        <price>120</price>
+        <color>BLACK</color>
+        <mileage>1500</mileage>
+        <components>
+            <li>ABS</li>
+            <li>ALLOY WHEELS</li>
+        </components>
+    </car>
+    <car>
+        <model>MAZDA</model>
+        <price>160</price>
+        <color>WHITE</color>
+        <mileage>2500</mileage>
+        <components>
+            <li>AIR CONDITIONING</li>
+            <li>BLUETOOTH</li>
+        </components>
+    </car>
+</cars>
